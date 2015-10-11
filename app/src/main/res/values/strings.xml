@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AplicacionesPruebas</string>
+
+    <string name="titulo_juego">COLORES!!!!</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
