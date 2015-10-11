@@ -8,7 +8,6 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import java.util.Random;
 
@@ -17,6 +16,10 @@ public class MainActivity extends Activity {
 
     private TextView etiquetaColor,etiquetaCantidad1,etiquetaCantidad2,etiquetaCronometro,etiquetaBuena,etiquetaMala,etiquetaCompara;
     int cant=0, cont1=0,cont2=0;
+
+
+
+
     int hora=0,minuto=0,segundo=0;
     private Handler miHandler=new Handler();
     private Handler miHandler2=new Handler();
